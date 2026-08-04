@@ -161,7 +161,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Rushi Jadhav**
+**Rushiprasad Jadhav**
 
 B.Tech Information Technology Student
 
